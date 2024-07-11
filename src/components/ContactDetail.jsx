@@ -23,7 +23,7 @@ export default function ContactDetail() {
           </div>
           <div>
             <button className='btn btn-primary' onClick={() => navigate('/')}>
-              Back to contact List
+              Back to contact list
             </button>
           </div>
         </div>
